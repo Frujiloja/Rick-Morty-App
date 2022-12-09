@@ -1,0 +1,69 @@
+.divStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+    border-radius:20px;
+    justify-content: center;
+    margin: 50px 0px 0px 530px;
+    width: 30%;
+    height: 250px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid rgb(50, 220, 160);
+}
+
+.inputStyle {
+    padding-top: 20px;
+}
+
+.imgStyle {
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 30%;
+ }
+
+.imgPJ {
+    width: 20%;
+    margin-left: 39%;
+    margin-top: 24px;
+}
+
+.fontColorMail {
+    color: rgb(185, 228, 76);
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.fontColorPassword {
+    color: rgb(185, 228, 76);
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0 0px 0 0px;
+}
+
+.fontColorAlerts {
+    color: rgb(231, 230, 228);
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 0 10px 0 10px;
+}
+
+.loginStyle {
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;;
+    font-weight: bold;
+    background-color: black;
+    color: rgb(185, 228, 76);
+    border: 2px solid rgb(50, 220, 160);
+    cursor: pointer;
+    width: 20%;
+    margin-top: 10px;
+    border-radius: 3px;
+}

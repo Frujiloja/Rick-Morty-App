@@ -1,0 +1,16 @@
+.divStyle {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    margin-top: 50px;
+}
+
+.linksStyle {
+    padding: 25px;
+    color: rgb(84, 225, 213);
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+}

@@ -1,0 +1,4 @@
+.divStyle {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,54 @@
+.carta{
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	background-color: rgb(0, 0, 0);
+	border-radius: 24px;
+	border: 3px solid rgb(50, 220, 160);
+	margin-left: 40px;
+	margin-top: 60px;
+}
+
+.imgStyle{
+	border-radius:20px 20px 0 0;
+}
+
+.heartStyle {
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.letras{
+    color: white;
+	font-size: 20px;
+}
+
+.letras2{
+    color: rgb(185, 228, 76);
+	font-weight: bold;
+}
+
+.linkStyles {
+	text-decoration: none;
+}
+
+.myButton {
+	border-color: #000000;
+	border-width: 4px;
+	padding: 0.6em 2.3em;
+	cursor: pointer;
+	font-size: 1em;
+	color: #0f0f0f;
+	background-image: linear-gradient(45deg, transparent 50%, #000000 50%);
+	background-position: 25%;
+	background-size: 400%;
+	-webkit-transition: background 500ms ease-in-out, color 500ms ease-in-out;
+	transition: background 500ms ease-in-out, color 500ms ease-in-out;
+	border-radius: 10px;
+	margin: 5px;
+	background-color: rgb(50, 220, 160);
+}
+.myButton:hover {
+	color: rgb(185, 228, 76);
+	background-position: 100%;
+}

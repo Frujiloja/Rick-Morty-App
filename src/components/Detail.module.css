@@ -1,0 +1,49 @@
+.graldivStyle {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.divStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black ;
+    border-radius: 24px;
+    border: 3px solid rgb(50, 220, 160);
+    width: 98;
+    height: 514px;
+}
+
+.fontStyle {
+    display: flex;
+    justify-content: center;
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    color: #f5f4f2;
+}
+
+.buttonStyle {
+    font-family:source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    border: 0;
+    text-align: center;
+    display: inline-block;
+    padding: 14px;
+    width: 150px;
+    margin: 7px;
+    color: #ffffff;
+    background-color: #090a0a;
+    border-radius: 8px;
+    font-family: "proxima-nova-soft", sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    transition: box-shadow 200ms ease-out;
+    border: 2px solid rgb(50, 220, 160);
+    cursor: pointer;
+}
+
+.imgStyle {
+    border-radius: 0px 0 20px 20px;
+}

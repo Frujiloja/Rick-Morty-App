@@ -1,0 +1,19 @@
+.divStyle {
+padding-top: 20px;
+}
+
+.fontStyle {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: rgb(185, 228, 76);
+}
+
+.fontStyle2 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: rgb(50, 220, 160);
+    padding-top: 70px;
+    
+}
