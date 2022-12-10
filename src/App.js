@@ -40,8 +40,8 @@ function App () {
 
   const navigate = useNavigate();
   const [access, setAccess] = useState(false);
-  const username = '1';
-  const password = '1';
+  const username = 'ejemplo@gmail.com';
+  const password = '123456';
 
 function login(userData) {
    if (userData.password === password && userData.username === username) {
